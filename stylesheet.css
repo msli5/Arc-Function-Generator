@@ -1,0 +1,11 @@
+#just-line-break {
+  white-space: pre-line;
+  font-family: 'Bree Serif', serif;
+  color:purple;
+}
+
+#line-break-and-tab {
+  white-space: pre-wrap;
+  font-family: 'Bree Serif', serif;
+  color: orange;
+}
